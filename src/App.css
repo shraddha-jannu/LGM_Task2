@@ -1,0 +1,18 @@
+body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  background-size: 5000% 5000%;
+  background-repeat: no-repeat;
+  animation: gradient 15s ease infinite;
+}
+h1{
+  font-size: 40px;
+  text-align: center;
+  font-family: cursive;
+  color: #fff;
+}
+.logo {
+  margin-top: -15px;
+}
